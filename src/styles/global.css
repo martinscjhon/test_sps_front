@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+p,
+th,
+td,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+button {
+  font-size: 14px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
