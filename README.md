@@ -1,30 +1,75 @@
-----------------------------------
-ESPANHOL
-----------------------------------
+# Projeto Teste => MyAlbums
 
-## PRUEBA SPS REACT
+Este projeto foi desenvolvido para fins de teste.
 
-- Crear un CRUD de usuarios
+Abaixo estão as instruções para configurar e rodar a aplicação localmente.
 
-## Reglas
+---
 
-- Crear la página de inicio de sesión (signIn) para autenticar al usuario (usar el usuario previamente registrado para validar).
-- Se puede utilizar cualquier tipo de almacenamiento para guardar el token.
-- Solo será posible registrar y/o visualizar usuarios si el usuario está autenticado.
-- Consumir la API creada anteriormente (test-sps-server).
+## 📋 Pré-requisitos
 
+Antes de iniciar, certifique-se de ter as seguintes ferramentas instaladas:
 
-----------------------------------
-PORTUGUÊS
-----------------------------------
+- Node.js (recomendado versão LTS)
+- npm ou yarn
+- Git
+- Visual Studio Code
 
-# SPS REACT TEST
+---
 
-- Criar um CRUD de usuários
+## 📦 Clonando o repositório
 
-# Regras
+Você pode clonar o projeto utilizando HTTPS ou SSH.
 
-- Criar a página de signIn para fazer a autenticação do usuário (Usar o usuário previamente cadastrado para validar)
-- Pode usar qualquer tipo de storage para guardar o token
-- Só será possível cadastrar e/ou visualizar os usuários se estiver autenticado
-- Chamar a API que foi criada anteriormente (test-sps-server)
+### HTTPS
+
+```bash
+git clone https://github.com/martinscjhon/test_sps_front.git
+```
+
+### SSH
+
+```bash
+git clone git@github.com:martinscjhon/test_sps_front.git
+```
+
+### 📂 Acessando o projeto
+
+Após clonar o repositório, entre na pasta do projeto e abra no VS Code:
+
+```bash
+cd test_sps_front
+code .
+```
+
+### 📥 Instalando as dependências
+
+Instale as dependências do projeto utilizando o gerenciador de pacotes de sua preferência:
+
+Usando npm =>
+npm install
+
+Usando yarn =>
+yarn
+
+### ▶️ Executando o projeto
+
+Após a instalação das dependências, execute o projeto com o comando:
+
+Usando npm =>
+npm run dev
+
+Usando yarn =>
+yarn dev
+
+### 🌐 Acessando a aplicação
+
+A aplicação estará disponível no navegador no seguinte endereço:
+
+👉 http://localhost:3000/
+
+### 🛠️ Tecnologias utilizadas
+
+- Node.js
+- npm / Yarn
+- Create React App (CRA)
