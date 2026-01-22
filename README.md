@@ -1,4 +1,4 @@
-# Projeto Teste => MyAlbums
+# Projeto Teste => Test_Sps_Front
 
 Este projeto foi desenvolvido para fins de teste.
 
